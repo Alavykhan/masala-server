@@ -1,0 +1,51 @@
+ [
+      {
+        "id": 1,
+        "name": "Kishwar Chowdhury",
+        "experience": "3 years of experience",
+        "recipes": "3 Recipes",
+        "likes": "100k",
+        "img": "https://i.ibb.co/8NVT2rT/chef-1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Vikas Khanna",
+        "experience": "5 years",
+        "recipes": "3 Recipes",
+        "likes": "110k",
+        "img": "https://i.ibb.co/Mhz2jD4/chef-2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pankaj Bhadouria",
+        "experience": "12 years",
+        "recipes": "3 Recipes",
+        "likes": "200k",
+        "img": "https://i.ibb.co/N7b43mX/chef-3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sanjeev Kapoor",
+        "experience": "6 years",
+        "recipes": "3 Recipes",
+        "likes": "120k",
+        "img": "https://i.ibb.co/Y35ctHb/chef-4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Garima Arora",
+        "experience": "15 years",
+        "recipes": "3 Recipes",
+        "likes": "160k",
+        "img": "https://i.ibb.co/tcxv9nn/chef-5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Ranveer Brar",
+        "experience": "9 years",
+        "recipes": "3 Recipes",
+        "likes": "180k",
+        "img": "https://i.ibb.co/t4MtrFq/chef-6.jpg"
+      }
+    ]
+  
