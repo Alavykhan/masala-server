@@ -15,6 +15,12 @@ app.get('/chefs', (req, res)=>{
     res.send(chefs)
 })
 
+app.get('/chefs/:id', (req, res)=>{
+    const id =req.params.id;
+    const selectedId = chefs.find(n=>n.id == id)
+    res.send(selectedId)
+})
+
 app.listen(port,()=>{
     console.log(`listening port ${port}`);
 })

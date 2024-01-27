@@ -5,7 +5,28 @@
         "experience": "3 years of experience",
         "recipes": "3 Recipes",
         "likes": "100k",
-        "img": "https://i.ibb.co/8NVT2rT/chef-1.jpg"
+        "img": "https://i.ibb.co/8NVT2rT/chef-1.jpg",
+        "coverImg": "https://i.ibb.co/sCGnK79/cover-1.jpg",
+        "bio": "Passionate chef with a flair for creative fusion cuisine. Dedicated to elevating flavors, sourcing local ingredients, and delighting diners with unforgettable dishes.",
+        "recipe1": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Palak Paneer",
+            "ingredients": "Palak, Panner, Ghee, Garam Masala, Lemon Juice, Salt and pepper to taste",
+            "recipe": "For palak paneer, blanch 2 cups of spinach for 2 minutes, shock in ice water, then blend into a smooth paste. In a pan, sauté 1 chopped onion, 2 minced garlic cloves, ginger, and optionally 1 chopped green chili until golden. Add 2 chopped tomatoes, cook until soft, then stir in 1/2 tsp each of turmeric, coriander, and cumin powder, 1 tsp garam masala, and salt. Incorporate spinach paste, cook for 5-7 mins, add 200g cubed paneer, simmer for 5 mins, optionally add 1/4 cup cream, garnish with cilantro, and serve with naan or rice."
+        },
+        "recipe2": {
+            "img":"https://i.ibb.co/GkjFDfY/img2.jpg",
+            "name1": "Butter Chicken",
+            "ingredients": "Chicken, Butter, Garam Masala, Yogurt, Salt and pepper to taste",
+            "recipe": "To make Palak Butter Chicken, marinate 500g of chicken with 1/2 cup yogurt, 1 tbsp ginger-garlic paste, 1 tsp each of turmeric, chili powder, and garam masala, and salt for 30 minutes. In a pan, heat 2 tbsp butter, sauté 1 chopped onion until golden, then add 2 chopped tomatoes and cook until soft. Add 2 cups of spinach puree and simmer for 5 minutes. In a separate pan, cook marinated chicken until tender, then add it to the spinach mixture. Finish with 2 tbsp of cream, garnish with cilantro, and serve hot."
+        },
+        "recipe3": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Chana Masala",
+            "ingredients": "Chana, Garam Masala, Butter, Lemon Juice, Salt and pepper to taste",
+            "recipe": "To prepare Palak Chana Masala, soak 1 cup of chickpeas overnight, then cook until tender. In a pan, heat 2 tbsp oil, sauté 1 chopped onion until golden, then add 2 minced garlic cloves, 1-inch grated ginger, and 2 chopped tomatoes, cooking until soft. Add 2 cups of spinach puree and simmer for 5 minutes. Stir in cooked chickpeas, 1 tsp each of cumin, coriander, turmeric, and garam masala, and salt to taste. Simmer for another 10 minutes, garnish with cilantro, and serve hot."
+        }
+       
       },
       {
         "id": 2,
@@ -13,7 +34,27 @@
         "experience": "5 years",
         "recipes": "3 Recipes",
         "likes": "110k",
-        "img": "https://i.ibb.co/Mhz2jD4/chef-2.jpg"
+        "img": "https://i.ibb.co/Mhz2jD4/chef-2.jpg",
+        "coverImg": "https://i.ibb.co/X8j4kTy/cover-2.jpg",
+        "bio": "Passionate chef with a flair for creative fusion cuisine. Dedicated to elevating flavors, sourcing local ingredients, and delighting diners with unforgettable dishes.",
+        "recipe1": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Palak Paneer",
+            "ingredients": "Palak, Panner, Ghee, Garam Masala, Lemon Juice, Salt and pepper to taste",
+            "recipe": "For palak paneer, blanch 2 cups of spinach for 2 minutes, shock in ice water, then blend into a smooth paste. In a pan, sauté 1 chopped onion, 2 minced garlic cloves, ginger, and optionally 1 chopped green chili until golden. Add 2 chopped tomatoes, cook until soft, then stir in 1/2 tsp each of turmeric, coriander, and cumin powder, 1 tsp garam masala, and salt. Incorporate spinach paste, cook for 5-7 mins, add 200g cubed paneer, simmer for 5 mins, optionally add 1/4 cup cream, garnish with cilantro, and serve with naan or rice."
+        },
+        "recipe2": {
+            "img":"https://i.ibb.co/GkjFDfY/img2.jpg",
+            "name1": "Butter Chicken",
+            "ingredients": "Chicken, Butter, Garam Masala, Yogurt, Salt and pepper to taste",
+            "recipe": "To make Palak Butter Chicken, marinate 500g of chicken with 1/2 cup yogurt, 1 tbsp ginger-garlic paste, 1 tsp each of turmeric, chili powder, and garam masala, and salt for 30 minutes. In a pan, heat 2 tbsp butter, sauté 1 chopped onion until golden, then add 2 chopped tomatoes and cook until soft. Add 2 cups of spinach puree and simmer for 5 minutes. In a separate pan, cook marinated chicken until tender, then add it to the spinach mixture. Finish with 2 tbsp of cream, garnish with cilantro, and serve hot."
+        },
+        "recipe3": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Chana Masala",
+            "ingredients": "Chana, Garam Masala, Butter, Lemon Juice, Salt and pepper to taste",
+            "recipe": "To prepare Palak Chana Masala, soak 1 cup of chickpeas overnight, then cook until tender. In a pan, heat 2 tbsp oil, sauté 1 chopped onion until golden, then add 2 minced garlic cloves, 1-inch grated ginger, and 2 chopped tomatoes, cooking until soft. Add 2 cups of spinach puree and simmer for 5 minutes. Stir in cooked chickpeas, 1 tsp each of cumin, coriander, turmeric, and garam masala, and salt to taste. Simmer for another 10 minutes, garnish with cilantro, and serve hot."
+        }
       },
       {
         "id": 3,
@@ -21,7 +62,27 @@
         "experience": "12 years",
         "recipes": "3 Recipes",
         "likes": "200k",
-        "img": "https://i.ibb.co/N7b43mX/chef-3.jpg"
+        "img": "https://i.ibb.co/N7b43mX/chef-3.jpg",
+        "coverImg": "https://i.ibb.co/mtn4QVq/cover-3.jpg",
+        "bio": "Passionate chef with a flair for creative fusion cuisine. Dedicated to elevating flavors, sourcing local ingredients, and delighting diners with unforgettable dishes.",
+        "recipe1": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Palak Paneer",
+            "ingredients": "Palak, Panner, Ghee, Garam Masala, Lemon Juice, Salt and pepper to taste",
+            "recipe": "For palak paneer, blanch 2 cups of spinach for 2 minutes, shock in ice water, then blend into a smooth paste. In a pan, sauté 1 chopped onion, 2 minced garlic cloves, ginger, and optionally 1 chopped green chili until golden. Add 2 chopped tomatoes, cook until soft, then stir in 1/2 tsp each of turmeric, coriander, and cumin powder, 1 tsp garam masala, and salt. Incorporate spinach paste, cook for 5-7 mins, add 200g cubed paneer, simmer for 5 mins, optionally add 1/4 cup cream, garnish with cilantro, and serve with naan or rice."
+        },
+        "recipe2": {
+            "img":"https://i.ibb.co/GkjFDfY/img2.jpg",
+            "name1": "Butter Chicken",
+            "ingredients": "Chicken, Butter, Garam Masala, Yogurt, Salt and pepper to taste",
+            "recipe": "To make Palak Butter Chicken, marinate 500g of chicken with 1/2 cup yogurt, 1 tbsp ginger-garlic paste, 1 tsp each of turmeric, chili powder, and garam masala, and salt for 30 minutes. In a pan, heat 2 tbsp butter, sauté 1 chopped onion until golden, then add 2 chopped tomatoes and cook until soft. Add 2 cups of spinach puree and simmer for 5 minutes. In a separate pan, cook marinated chicken until tender, then add it to the spinach mixture. Finish with 2 tbsp of cream, garnish with cilantro, and serve hot."
+        },
+        "recipe3": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Chana Masala",
+            "ingredients": "Chana, Garam Masala, Butter, Lemon Juice, Salt and pepper to taste",
+            "recipe": "To prepare Palak Chana Masala, soak 1 cup of chickpeas overnight, then cook until tender. In a pan, heat 2 tbsp oil, sauté 1 chopped onion until golden, then add 2 minced garlic cloves, 1-inch grated ginger, and 2 chopped tomatoes, cooking until soft. Add 2 cups of spinach puree and simmer for 5 minutes. Stir in cooked chickpeas, 1 tsp each of cumin, coriander, turmeric, and garam masala, and salt to taste. Simmer for another 10 minutes, garnish with cilantro, and serve hot."
+        }
       },
       {
         "id": 4,
@@ -29,7 +90,27 @@
         "experience": "6 years",
         "recipes": "3 Recipes",
         "likes": "120k",
-        "img": "https://i.ibb.co/Y35ctHb/chef-4.jpg"
+        "img": "https://i.ibb.co/Y35ctHb/chef-4.jpg",
+        "coverImg": "https://i.ibb.co/5Thh5jX/cover-4.jpg",
+        "bio": "Passionate chef with a flair for creative fusion cuisine. Dedicated to elevating flavors, sourcing local ingredients, and delighting diners with unforgettable dishes.",
+        "recipe1": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Palak Paneer",
+            "ingredients": "Palak, Panner, Ghee, Garam Masala, Lemon Juice, Salt and pepper to taste",
+            "recipe": "For palak paneer, blanch 2 cups of spinach for 2 minutes, shock in ice water, then blend into a smooth paste. In a pan, sauté 1 chopped onion, 2 minced garlic cloves, ginger, and optionally 1 chopped green chili until golden. Add 2 chopped tomatoes, cook until soft, then stir in 1/2 tsp each of turmeric, coriander, and cumin powder, 1 tsp garam masala, and salt. Incorporate spinach paste, cook for 5-7 mins, add 200g cubed paneer, simmer for 5 mins, optionally add 1/4 cup cream, garnish with cilantro, and serve with naan or rice."
+        },
+        "recipe2": {
+            "img":"https://i.ibb.co/GkjFDfY/img2.jpg",
+            "name1": "Butter Chicken",
+            "ingredients": "Chicken, Butter, Garam Masala, Yogurt, Salt and pepper to taste",
+            "recipe": "To make Palak Butter Chicken, marinate 500g of chicken with 1/2 cup yogurt, 1 tbsp ginger-garlic paste, 1 tsp each of turmeric, chili powder, and garam masala, and salt for 30 minutes. In a pan, heat 2 tbsp butter, sauté 1 chopped onion until golden, then add 2 chopped tomatoes and cook until soft. Add 2 cups of spinach puree and simmer for 5 minutes. In a separate pan, cook marinated chicken until tender, then add it to the spinach mixture. Finish with 2 tbsp of cream, garnish with cilantro, and serve hot."
+        },
+        "recipe3": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Chana Masala",
+            "ingredients": "Chana, Garam Masala, Butter, Lemon Juice, Salt and pepper to taste",
+            "recipe": "To prepare Palak Chana Masala, soak 1 cup of chickpeas overnight, then cook until tender. In a pan, heat 2 tbsp oil, sauté 1 chopped onion until golden, then add 2 minced garlic cloves, 1-inch grated ginger, and 2 chopped tomatoes, cooking until soft. Add 2 cups of spinach puree and simmer for 5 minutes. Stir in cooked chickpeas, 1 tsp each of cumin, coriander, turmeric, and garam masala, and salt to taste. Simmer for another 10 minutes, garnish with cilantro, and serve hot."
+        }
       },
       {
         "id": 5,
@@ -37,7 +118,27 @@
         "experience": "15 years",
         "recipes": "3 Recipes",
         "likes": "160k",
-        "img": "https://i.ibb.co/tcxv9nn/chef-5.jpg"
+        "img": "https://i.ibb.co/tcxv9nn/chef-5.jpg",
+        "coverImg": "https://i.ibb.co/x2S7Kry/cover-5.jpg",
+        "bio": "Passionate chef with a flair for creative fusion cuisine. Dedicated to elevating flavors, sourcing local ingredients, and delighting diners with unforgettable dishes.",
+        "recipe1": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Palak Paneer",
+            "ingredients": "Palak, Panner, Ghee, Garam Masala, Lemon Juice, Salt and pepper to taste",
+            "recipe": "For palak paneer, blanch 2 cups of spinach for 2 minutes, shock in ice water, then blend into a smooth paste. In a pan, sauté 1 chopped onion, 2 minced garlic cloves, ginger, and optionally 1 chopped green chili until golden. Add 2 chopped tomatoes, cook until soft, then stir in 1/2 tsp each of turmeric, coriander, and cumin powder, 1 tsp garam masala, and salt. Incorporate spinach paste, cook for 5-7 mins, add 200g cubed paneer, simmer for 5 mins, optionally add 1/4 cup cream, garnish with cilantro, and serve with naan or rice."
+        },
+        "recipe2": {
+            "img":"https://i.ibb.co/GkjFDfY/img2.jpg",
+            "name1": "Butter Chicken",
+            "ingredients": "Chicken, Butter, Garam Masala, Yogurt, Salt and pepper to taste",
+            "recipe": "To make Palak Butter Chicken, marinate 500g of chicken with 1/2 cup yogurt, 1 tbsp ginger-garlic paste, 1 tsp each of turmeric, chili powder, and garam masala, and salt for 30 minutes. In a pan, heat 2 tbsp butter, sauté 1 chopped onion until golden, then add 2 chopped tomatoes and cook until soft. Add 2 cups of spinach puree and simmer for 5 minutes. In a separate pan, cook marinated chicken until tender, then add it to the spinach mixture. Finish with 2 tbsp of cream, garnish with cilantro, and serve hot."
+        },
+        "recipe3": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Chana Masala",
+            "ingredients": "Chana, Garam Masala, Butter, Lemon Juice, Salt and pepper to taste",
+            "recipe": "To prepare Palak Chana Masala, soak 1 cup of chickpeas overnight, then cook until tender. In a pan, heat 2 tbsp oil, sauté 1 chopped onion until golden, then add 2 minced garlic cloves, 1-inch grated ginger, and 2 chopped tomatoes, cooking until soft. Add 2 cups of spinach puree and simmer for 5 minutes. Stir in cooked chickpeas, 1 tsp each of cumin, coriander, turmeric, and garam masala, and salt to taste. Simmer for another 10 minutes, garnish with cilantro, and serve hot."
+        }
       },
       {
         "id": 6,
@@ -45,7 +146,27 @@
         "experience": "9 years",
         "recipes": "3 Recipes",
         "likes": "180k",
-        "img": "https://i.ibb.co/t4MtrFq/chef-6.jpg"
+        "img": "https://i.ibb.co/t4MtrFq/chef-6.jpg",
+        "coverImg": "https://i.ibb.co/rpy8HTy/cover-6.jpg",
+        "bio": "Passionate chef with a flair for creative fusion cuisine. Dedicated to elevating flavors, sourcing local ingredients, and delighting diners with unforgettable dishes.",
+        "recipe1": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Palak Paneer",
+            "ingredients": "Palak, Panner, Ghee, Garam Masala, Lemon Juice, Salt and pepper to taste",
+            "recipe": "For palak paneer, blanch 2 cups of spinach for 2 minutes, shock in ice water, then blend into a smooth paste. In a pan, sauté 1 chopped onion, 2 minced garlic cloves, ginger, and optionally 1 chopped green chili until golden. Add 2 chopped tomatoes, cook until soft, then stir in 1/2 tsp each of turmeric, coriander, and cumin powder, 1 tsp garam masala, and salt. Incorporate spinach paste, cook for 5-7 mins, add 200g cubed paneer, simmer for 5 mins, optionally add 1/4 cup cream, garnish with cilantro, and serve with naan or rice."
+        },
+        "recipe2": {
+            "img":"https://i.ibb.co/GkjFDfY/img2.jpg",
+            "name1": "Butter Chicken",
+            "ingredients": "Chicken, Butter, Garam Masala, Yogurt, Salt and pepper to taste",
+            "recipe": "To make Palak Butter Chicken, marinate 500g of chicken with 1/2 cup yogurt, 1 tbsp ginger-garlic paste, 1 tsp each of turmeric, chili powder, and garam masala, and salt for 30 minutes. In a pan, heat 2 tbsp butter, sauté 1 chopped onion until golden, then add 2 chopped tomatoes and cook until soft. Add 2 cups of spinach puree and simmer for 5 minutes. In a separate pan, cook marinated chicken until tender, then add it to the spinach mixture. Finish with 2 tbsp of cream, garnish with cilantro, and serve hot."
+        },
+        "recipe3": {
+            "img":"https://i.ibb.co/mq1m0Z4/img3.jpg",
+            "name1": "Chana Masala",
+            "ingredients": "Chana, Garam Masala, Butter, Lemon Juice, Salt and pepper to taste",
+            "recipe": "To prepare Palak Chana Masala, soak 1 cup of chickpeas overnight, then cook until tender. In a pan, heat 2 tbsp oil, sauté 1 chopped onion until golden, then add 2 minced garlic cloves, 1-inch grated ginger, and 2 chopped tomatoes, cooking until soft. Add 2 cups of spinach puree and simmer for 5 minutes. Stir in cooked chickpeas, 1 tsp each of cumin, coriander, turmeric, and garam masala, and salt to taste. Simmer for another 10 minutes, garnish with cilantro, and serve hot."
+        }
       }
     ]
   
