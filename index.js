@@ -1,9 +1,13 @@
 const express = require('express');
-const app = express();
 const cors = require('cors');
+const app = express();
 const port = process.env.PORT || 5000;
 
-app.use(cors());
+const corsOptions = {
+    origin:'https://masala-server-gfiaym018-alavykhan.vercel.app'
+}
+
+app.use(cors(corsOptions))
 
 const chefs = require('./data/chefs.json')
 
